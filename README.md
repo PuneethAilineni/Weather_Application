@@ -46,3 +46,7 @@ This application uses the Visual Crossing Weather API. You will need an API key 
 
 5. Video
 
+
+https://github.com/user-attachments/assets/daf966c4-576f-4e8c-bc11-dd4f33d4e087
+
+
